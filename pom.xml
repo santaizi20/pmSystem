@@ -43,11 +43,7 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.46</version>
         </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-web</artifactId>
-            <version>4.3.23.RELEASE</version>
-        </dependency>
+
     </dependencies>
 
     <build>
